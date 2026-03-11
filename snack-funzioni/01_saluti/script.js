@@ -9,9 +9,8 @@ const hello = (userName) => {
 }
 console.log(hello(' ' + 'mario'));
 
-const greet = (userName) => 'ciao'+ userName
-console.log(hello(' ' + 'Mario'))
-
+const greet = (userName) => 'ciao'+ userName;
+console.log(hello(' ' + 'Mario'));
 
 // Dichiara la funzione qui.
 // Invoca la funzione qui e stampa il risultato in console
