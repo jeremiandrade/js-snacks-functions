@@ -4,13 +4,10 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 const elements = (name) =>name.map(initial => initial[0]) 
 console.log(elements(names));
 
-
+//chiedere bene come funziona .map
 
 // Dichiara la funzione qui.
 
-
 // Invoca la funzione qui e stampa il risultato in console
-
-
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
